@@ -15,3 +15,11 @@ Verschillende tools gaan ghebruikt moeten worden
 MBSA
 Nmap
 Sysinternals voor scan
+
+
+
+
+
+![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/54288899/232599829-bfd749e3-ea71-4b2b-b85a-b4b025411794.png)
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/54288899/232599835-4caae9e3-58a7-4c1f-8f9e-33f78aef6820.png)
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/54288899/232599837-2c76dac5-80a1-463b-95b6-d464d952c725.png)
