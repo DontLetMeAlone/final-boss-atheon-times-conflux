@@ -1,0 +1,23 @@
+begin met windowds defender setting overzicht van alles
+Begin van links naar beneden fix alles rood oranje of geel  
+maak screenshots wat je ziet bvb windows lang niet geupdate en noteer kwetsbaarheden.
+altijd door naar advanced settings kijk dieper  en ga daarna pas verder
+Delivery optimization is niet nodig niks doen check advanced options en ga verder
+windows security maak screenshots van welke zaken je ziet en duik dieper waar nodig is
+nog niks fixen maak screenshots van wat je ziet scan opties altijd full scan nooit quik scan
+virus & threat protection check alles realtime protection aan of uit check advanced en maak
+screenshot altijd door checken scroll naar beneden en check advanced settings
+Ga naar firewall network protections maak screenshots en noteer  firewall staat uit van je domain network 
+staat uit is niet goed want die gebruiken we (active) gevaar hiervan is alle poorten staan open en iedereen kan naar binnen
+ga hierna naar advanced settings en ga je firewall in. bij inbound en outbound rules als je een rule aanmaakt in je firewall staat hij gelijk boven
+check de eerste 10 regels van je inbound en outbound rules deze zijn meest recent. Lees en zoek uit welke poort nummers deze gebruiken en open hebben staan.
+Kijk ook bij de echo requests in inbound rules moet uit. na inbound en outbound checken ga lijst af en ga naar de volgende stuk als er hier iemand staat bij rdp
+in beveiligings regels is niet goed. check ook monitoring nadat alles screenshots gemaakt en genoteerd is en ga verder.
+verder naar app en browser controls  en ga de lijst door  bij check apps and files maak een screenshot moet op block staan je moet server niet gebruiken om sites te gaan.
+check ook exploit protection lees het door als iets uit staan of rood oranje geel is noteer en maak screenshot alles hier moet aan staan. als alles gechecked is kijk door
+device security kijk door maar niks hoeft hier gedaan worden. Als alles gechecked is doe een dubble check ookal is het groen 
+
+In je database csv ? export check welke query en hoevaak hij is uitgevoerd.
+werpprocess 2 is oplossen van problemen die je hebt gevonden en genoteerd.
+In je server management check local server en fix wat er mist en uit staat etc.
+vnc?

@@ -1,0 +1,24 @@
+nmap MBSA wireshark 
+zenmap 
+
+check firewall
+maak prnt screens van alles wat je vind zoals firewall uit
+noteer waarom dit een risico is. Check antivirus windows defender settings,
+maak screenshots kijk dieper in defender settings virus and threat protection wanneer is
+laatste scan gedaan. Virus and threat protection manage settings kijk of realtime protection aan staat.
+Maak screens van elke stap check protection updates for updates en update als nodig is. check alles
+ookal is het groen check alles voor threats. aan de linker kant check alles stap voor stap
+app en browser control bij check apps and files select block. check ook je exploit settings.
+in je firewall  bij inbound rules zoek echo request moet uit anders kunnen men van buiten
+pingen ddosen en je ip vinden. Internet explorere enchaned security configuration aan.
+Kijk of de server of client wel een password hebben kan kijken via mbsa
+
+In server manager local server check remote desktop domain firewall etc en last update windows
+
+quik scan niet doen bij examen doe full scan quik scan scant alleen de hoofdmappen full scan scant alles.
+
+
+wp 1 security audit en screenshots
+wp 2 lijst incidenten en onderbouw/fix
+
+
